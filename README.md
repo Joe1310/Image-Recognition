@@ -1,4 +1,4 @@
-# Image-Recognition
+# Image-Recognition - University CourseWork
 
 Comparing different methods of image recognition on the CIFAR-10 image set.
 
